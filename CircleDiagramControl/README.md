@@ -1,0 +1,2 @@
+# CircleDiagramControl
+Контрол - круговая диаграмма
